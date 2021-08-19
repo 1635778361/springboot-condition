@@ -1,8 +1,5 @@
 <component name="libraryTable">
   <library name="Maven: io.netty:netty-buffer:4.1.66.Final">
-    <ANNOTATIONS>
-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/externalAnnotations/io/netty/netty-buffer/4.1.27.Final-an1/netty-buffer-4.1.27.Final-an1-annotations.zip!/" />
-    </ANNOTATIONS>
     <CLASSES>
       <root url="jar://D:/maven/LocalWarehouse/io/netty/netty-buffer/4.1.66.Final/netty-buffer-4.1.66.Final.jar!/" />
     </CLASSES>
